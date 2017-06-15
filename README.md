@@ -8,7 +8,7 @@ In this repository provides a code snippet that can be used for EDS or SEM analy
     
 - [CPS Wizard](EDS/cpsWizard.md)
     - simple snippets for CPS(Counts Per Sec) evaluation in SPC file.
-    - easily evaluate CPS by range, by whole of spectrum.
+    - easily evaluate spectrum CPS by range, by whole.
     
 - [Peak Wizard](EDS/peakWizard.md)
     - simple code snippets for peak analysis.
